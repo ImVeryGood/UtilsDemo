@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">网络请求工具</string>
+    <string name="start">开始体验</string>
+    <string name="android">Android</string>
+    <string name="python">Python</string>
+    <string name="internet_error">网络异常,请检查网络设置</string>
+</resources>
